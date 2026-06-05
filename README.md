@@ -65,6 +65,13 @@ I am a Computer Science & Data Science student dedicated to building high-integr
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=advaitkj123&theme=tokyonight&utcOffset=5.5"/>
 </p>
 
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=advaitkj123&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
+
 ---
 
 <p align="center"><i>"Building robust systems today to solve systemic challenges tomorrow."</i></p>
