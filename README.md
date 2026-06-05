@@ -8,7 +8,7 @@
 ---
 
 ### 🚀 About Me
-I am a Computer Science & Data Science student dedicated to building high-integrity, community-driven technology. Currently, I am evolving my expertise as an **AI-Integrated Backend Developer**, blending robust engineering patterns with intelligent systems. 
+I am a Data Science student dedicated to building high-integrity, community-driven technology. Currently, I am evolving my expertise as an **AI-Integrated Backend Developer**, blending robust engineering patterns with intelligent systems. 
 
 * 🧠 **Deep Dive:** Sharpening my core **Data Structures & Algorithms (DSA)** and architecture patterns for scalable **System Design**.
 * 🛡️ **Focus Area:** Building deterministic governance, reliable Agentic AI frameworks, and secure backend systems.
