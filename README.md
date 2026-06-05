@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Advait Kumar Jha!
 
 <p align="left">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/advait-kumar-jha-90521531b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/advait-kumar-jha-90521531b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:advaitkumarjha@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
@@ -29,7 +29,8 @@ I am a Computer Science & Data Science student dedicated to building high-integr
 **Databases & Data Engineering**
 <p align="left">
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img alt="Oracle" src="https://img.shields.io/badge/-Oracle_11g-F80000?style=flat-square&logo=oracle&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="Vector DB" src="https://img.shields.io/badge/-Vector_DB-090909?style=flat-square&logo=database&logoColor=white" />
   <img alt="Databricks" src="https://img.shields.io/badge/-Databricks-FF3600?style=flat-square&logo=databricks&logoColor=white" />
 </p>
 
@@ -42,15 +43,14 @@ I am a Computer Science & Data Science student dedicated to building high-integr
 
 ---
 
-
 ### 📊 GitHub Metrics & Insights
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=advaitkj123&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&hide_border=true&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=advaitkj123&hide_border=true&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 ---
