@@ -53,6 +53,10 @@ I am a Computer Science & Data Science student dedicated to building high-integr
   <img src="https://github-readme-stats.vercel.app/api?username=advaitkj123&hide_border=true&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=advaitkj123&theme=tokyonight&hide_border=true" alt="GitHub Contribution Graph" />
+</p>
+
 ---
 
 <p align="center"><i>"Building robust systems today to solve systemic challenges tomorrow."</i></p>
