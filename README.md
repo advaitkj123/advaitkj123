@@ -45,14 +45,24 @@ I am a Computer Science & Data Science student dedicated to building high-integr
 
 ---
 
-### 📊 GitHub Metrics & Insights
+
+
+## 📊 GitHub Metrics & Insights
 
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=advaitkj123&theme=tokyo-night&hide_border=true"
-    alt="GitHub Activity Graph"
+    height="180em"
+    src="https://github-readme-stats-l79u.vercel.app/api?username=advaitkj123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
   />
+  <img
+    height="180em"
+    src="https://github-readme-stats-l79u.vercel.app/api/top-langs/?username=advaitkj123&layout=compact&theme=tokyonight&hide_border=true"
+  />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=advaitkj123&theme=tokyonight&utcOffset=5.5"/>
 </p>
 
 ---
