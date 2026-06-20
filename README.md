@@ -61,9 +61,7 @@ I am a Data Science student dedicated to building high-integrity, community-driv
   />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=advaitkj123&theme=tokyonight&utcOffset=5.5"/>
-</p>
+
 
 <p align="center">
   <img
